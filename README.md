@@ -3,6 +3,7 @@
 An elegant and educational Streamlit app to predict **penguin species** and **sex** using ML models.
 
 ---
+<img width="1920" height="2021" alt="chrome-capture-2025-6-18" src="https://github.com/user-attachments/assets/49597ebd-06ed-41bc-9c2d-a32026d9157d" />
 
 ## 🚀 Version
 
